@@ -1,4 +1,7 @@
 # Honkai-Star-Rail-Repository-Data-List
+
+可用的 API 参考文档：https://uigf.org/zh/mihoyo-api-collection/other/launcher.html#获取游戏资源文件信息
+
 This repository includes automatically fetching Honkai: Star Rail update history with GitHub Action. You can review all updates every day.
 
 Parent And Original Repository - [Main Repository](https://github.com/JRSKelvin/Honkai-Star-Rail-Repository)
