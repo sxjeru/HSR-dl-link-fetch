@@ -2,9 +2,9 @@ name: Honkai Star Rail Repository List Automation
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   # schedule:
   #   - cron: 0 17 * * *
 
