@@ -1,12 +1,14 @@
 # Honkai-Star-Rail-Repository-Data-List
 
-手动检查：https://hkrpg-launcher-static.hoyoverse.com/hkrpg_global/mdk/launcher/api/resource?channel_id=1&key=vplOVX8Vn7cwG8yb&launcher_id=35&sub_channel_id=0
+手动检查：[OS](https://hkrpg-launcher-static.hoyoverse.com/hkrpg_global/mdk/launcher/api/resource?channel_id=1&key=vplOVX8Vn7cwG8yb&launcher_id=35&sub_channel_id=0)、[CN](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?launcher_id=jGHBHlcOq1&game_ids[]=64kMb5iAWu)
 
 可用的 API 参考文档：
 
 https://uigf.org/zh/mihoyo-api-collection/other/launcher.html#获取游戏资源文件信息
 
 https://uigf.org/zh/mihoyo-api-collection/other/id.html#启动器ID与Key
+
+米哈游启动器新 API 参考：https://github.com/Scighost/Starward/pull/830/files
 
 ---
 
