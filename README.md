@@ -1,5 +1,7 @@
 # Honkai-Star-Rail-Repository-Data-List
 
+手动检查：https://hkrpg-launcher-static.hoyoverse.com/hkrpg_global/mdk/launcher/api/resource?channel_id=1&key=vplOVX8Vn7cwG8yb&launcher_id=35&sub_channel_id=0
+
 可用的 API 参考文档：
 
 https://uigf.org/zh/mihoyo-api-collection/other/launcher.html#获取游戏资源文件信息
