@@ -38,7 +38,7 @@ jobs:
       - name: Fetch OS
         uses: JamesIves/fetch-api-data-action@v2
         with:
-          endpoint: "https://hkrpg-launcher-static.hoyoverse.com/hkrpg_global/mdk/launcher/api/resource?channel_id=1&key=vplOVX8Vn7cwG8yb&launcher_id=35&sub_channel_id=0"
+          endpoint: "https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?launcher_id=VYTpXlbWo8&game_ids[]=4ziysqXOQ8"
           save-location: "OS/prettier/"
           save-name: result-${{ env.CURRENT_DATE }}
       # - name: Fetch CN
@@ -50,7 +50,7 @@ jobs:
       - name: Fetch CN
         uses: JamesIves/fetch-api-data-action@v2
         with:
-          endpoint: "https://api-launcher.mihoyo.com/hkrpg_cn/mdk/launcher/api/resource?channel_id=1&key=6KcVuOkbcqjJomjZ&launcher_id=33&sub_channel_id=0"
+          endpoint: "https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?launcher_id=jGHBHlcOq1&game_ids[]=64kMb5iAWu"
           save-location: "CN/prettier/"
           save-name: result-${{ env.CURRENT_DATE }}
       - name: Code File Prettier
