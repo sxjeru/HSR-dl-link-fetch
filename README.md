@@ -8,7 +8,7 @@ https://uigf.org/zh/mihoyo-api-collection/other/launcher.html#获取游戏资源
 
 https://uigf.org/zh/mihoyo-api-collection/other/id.html#启动器ID与Key
 
-米哈游启动器新 API 参考：https://github.com/Eric-Joker/Starward/blob/b3d59bf188cf901ef33ea9e0975616c5a91dc5a6/src/Starward.Core/Launcher/LauncherClient.cs
+米哈游启动器新 API 参考：[点击跳转](https://github.com/Eric-Joker/Starward/blob/b3d59bf188cf901ef33ea9e0975616c5a91dc5a6/src/Starward.Core/Launcher/LauncherClient.cs#L175)
 
 ---
 
